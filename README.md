@@ -2,6 +2,7 @@
 
 - Create React app
 - Configured TailwindCSS
+- Header
 
 
 # Features
